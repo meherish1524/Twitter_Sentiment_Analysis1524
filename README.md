@@ -1,6 +1,6 @@
 # Twitter_Sentiment_Analysis1524
 
-This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event.
+
 
 ![Screen_Shot](https://github.com/meherish1524/Twitter_Sentiment_Analysis1524/blob/main/Capture12.PNG?raw=true)
 
